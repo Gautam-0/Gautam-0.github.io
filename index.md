@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Products Analysis Report](/pdf/sample_presentation.pdf)
+[Products Analysis Report](/pdf/Gautam_Mittal_Big_Basket_Report.pbix)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
