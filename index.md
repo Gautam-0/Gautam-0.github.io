@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis 
 
-[Project 1 Title](/sample_page)
+[Exploratory Data Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Products Analysis Report](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
